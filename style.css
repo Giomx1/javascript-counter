@@ -1,0 +1,22 @@
+#container {
+  height: 300px;
+  width: 600px;
+  border: 10px solid red;
+  margin: 50px auto;
+  background-color: pink;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+#number {
+  height: 25px;
+  width: 250px;
+  margin: 50px auto;
+  border: 2px solid red;
+  text-align: center;
+  background-color:white
+}
+#increment, #decrement  {
+  margin-left: 180px;
+}
